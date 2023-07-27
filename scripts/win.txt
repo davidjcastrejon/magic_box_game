@@ -1,0 +1,3 @@
+show_background: win
+show_sprite: 512, 300, again
+RECT: 512, 300, 768, 428, play, again

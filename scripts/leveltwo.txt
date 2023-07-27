@@ -1,0 +1,10 @@
+# Top row of boxes
+RECT: 457, 182, 585, 310, hello, hello
+RECT: 657, 182, 785, 310, hello, hello
+
+# Bottom row of boxes
+RECT: 457, 382, 585, 510, hello, hello
+RECT: 657, 382, 785, 510, hello, hello
+
+# RECT for life status
+RECT: 40, 40, 168, 168, hello, hello

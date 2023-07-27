@@ -1,0 +1,6 @@
+# Two side by side boxes
+RECT: 457, 296, 585, 424, hi, hi
+RECT: 657, 296, 785, 424, hi, hi
+
+# RECT for coin power up
+RECT: 40, 500, 168, 628, hello, coin

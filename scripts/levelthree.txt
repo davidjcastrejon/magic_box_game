@@ -1,0 +1,18 @@
+# Frist row of boxes
+RECT: 372, 105, 500, 233, thing, thing
+RECT: 572, 105, 700, 233, thing, thing
+RECT: 772, 105, 900, 233, thing, thing
+
+# Second row of boxes
+RECT: 372, 295, 500, 423, thing, thing
+RECT: 572, 295, 700, 423, thing, thing
+RECT: 772, 295, 900, 423, thing, thing
+
+
+# Third row of boxes
+RECT: 372, 485, 500, 613, thing, thing
+RECT: 572, 485, 700, 613, thing, thing
+RECT: 772, 485, 900, 613, thing, thing
+
+# RECT for coin power up
+RECT: 40, 40, 168, 168, hello, coin

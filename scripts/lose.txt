@@ -1,0 +1,8 @@
+show_background: lose
+show_sprite: 512, 300, again
+
+# Command to display losing animation
+anim: anim
+
+# Clickable RECT to play again
+RECT: 512, 300, 768, 428, play, again
